@@ -1,2 +1,6 @@
 Probando por primera vez git con Freddy Vega :)
 Ahora vamos a probar el rm y el reset, veamos que pasa :)
+Haciendo pruebad de git checkout (ha estado complicado) :)
+¡Nunca pares de aprender! :)
+Siguen las pruebas ;)
+Fua, ahora probamos el git reset --soft :)
