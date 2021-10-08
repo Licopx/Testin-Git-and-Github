@@ -1,1 +1,2 @@
 Probando por primera vez git con Freddy Vega :)
+Ahora vamos a probar el rm y el reset, veamos que pasa :)
