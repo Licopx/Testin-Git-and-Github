@@ -26,3 +26,11 @@ article{
     text-align: left;
     font-family: "Arial";
 }
+.links{
+    text-decoration: none;
+    color: rgb(58, 9, 104);
+    background-color: rgb(15, 193, 216);
+    padding: 6px 3px;
+    border-radius: 5px;
+    border: 2px solid rgb(235, 29, 149); 
+}
