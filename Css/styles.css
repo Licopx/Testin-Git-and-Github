@@ -1,0 +1,36 @@
+header{
+    border: 5px solid rgb(117, 3, 102);
+    margin: 6px 400px;
+    border-radius: 10px;
+    padding: 0px auto;
+    background-color: rgba(223, 24, 196, 0.5);
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+.cabecera{
+    color: rgb(93, 7, 143);
+}
+section{
+    padding 8px;
+    border: 5px solid black;
+}
+article{
+    border: 1px solid rgb(230, 7, 7);
+    padding: 2px 5px;
+    border-radius: 7px;
+    margin: 8px 5px;
+}
+.Example{
+    text-align: left;
+    font-family: "Arial";
+}
+.links{
+    text-decoration: none;
+    color: rgb(58, 9, 104);
+    background-color: rgb(15, 193, 216);
+    padding: 6px 3px;
+    border-radius: 5px;
+    border: 2px solid rgb(235, 29, 149); 
+}
